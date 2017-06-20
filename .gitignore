@@ -1,2 +1,7 @@
 *.pyc
 __pycache__
+*.apps.googleusercontent.com.json
+youtube-v3-discoverydocument.json
+*.json
+.Rproj.user
+*.csv
